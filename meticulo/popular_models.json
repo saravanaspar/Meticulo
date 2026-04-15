@@ -1,0 +1,197 @@
+{
+  "_readme": "All GGUF models using Q4_K_M quantization. Format: 'author/repo:filename'. Base URL: https://huggingface.co/",
+
+  "_____ META LLAMA _____": "============================================================",
+
+  "llama3.2:1b":                    "bartowski/Llama-3.2-1B-Instruct-GGUF:Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+  "llama3.2:3b":                    "bartowski/Llama-3.2-3B-Instruct-GGUF:Llama-3.2-3B-Instruct-Q4_K_M.gguf",
+  "llama3.1:8b":                    "bartowski/Meta-Llama-3.1-8B-Instruct-GGUF:Meta-Llama-3.1-8B-Instruct-Q4_K_M.gguf",
+  "llama3.1:70b":                   "bartowski/Meta-Llama-3.1-70B-Instruct-GGUF:Meta-Llama-3.1-70B-Instruct-Q4_K_M.gguf",
+  "llama3.1:405b":                  "bartowski/Meta-Llama-3.1-405B-Instruct-GGUF:Meta-Llama-3.1-405B-Instruct-Q4_K_M.gguf",
+  "llama3.3:70b":                   "bartowski/Llama-3.3-70B-Instruct-GGUF:Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+  "llama4-scout:17b-16e":           "bartowski/meta-llama_Llama-4-Scout-17B-16E-Instruct-GGUF:Llama-4-Scout-17B-16E-Instruct-Q4_K_M.gguf",
+  "llama4-maverick:17b-128e":       "bartowski/meta-llama_Llama-4-Maverick-17B-128E-Instruct-GGUF:Llama-4-Maverick-17B-128E-Instruct-Q4_K_M.gguf",
+
+  "_____ QWEN 2.5 _____": "============================================================",
+
+  "qwen2.5:0.5b":                   "bartowski/Qwen2.5-0.5B-Instruct-GGUF:Qwen2.5-0.5B-Instruct-Q4_K_M.gguf",
+  "qwen2.5:1.5b":                   "bartowski/Qwen2.5-1.5B-Instruct-GGUF:Qwen2.5-1.5B-Instruct-Q4_K_M.gguf",
+  "qwen2.5:3b":                     "bartowski/Qwen2.5-3B-Instruct-GGUF:Qwen2.5-3B-Instruct-Q4_K_M.gguf",
+  "qwen2.5:7b":                     "bartowski/Qwen2.5-7B-Instruct-GGUF:Qwen2.5-7B-Instruct-Q4_K_M.gguf",
+  "qwen2.5:14b":                    "bartowski/Qwen2.5-14B-Instruct-GGUF:Qwen2.5-14B-Instruct-Q4_K_M.gguf",
+  "qwen2.5:32b":                    "bartowski/Qwen2.5-32B-Instruct-GGUF:Qwen2.5-32B-Instruct-Q4_K_M.gguf",
+  "qwen2.5:72b":                    "bartowski/Qwen2.5-72B-Instruct-GGUF:Qwen2.5-72B-Instruct-Q4_K_M.gguf",
+
+  "qwen2.5-coder:1.5b":             "bartowski/Qwen2.5-Coder-1.5B-Instruct-GGUF:Qwen2.5-Coder-1.5B-Instruct-Q4_K_M.gguf",
+  "qwen2.5-coder:7b":               "bartowski/Qwen2.5-Coder-7B-Instruct-GGUF:Qwen2.5-Coder-7B-Instruct-Q4_K_M.gguf",
+  "qwen2.5-coder:14b":              "bartowski/Qwen2.5-Coder-14B-Instruct-GGUF:Qwen2.5-Coder-14B-Instruct-Q4_K_M.gguf",
+  "qwen2.5-coder:32b":              "bartowski/Qwen2.5-Coder-32B-Instruct-GGUF:Qwen2.5-Coder-32B-Instruct-Q4_K_M.gguf",
+
+  "qwen2.5-math:1.5b":              "bartowski/Qwen2.5-Math-1.5B-Instruct-GGUF:Qwen2.5-Math-1.5B-Instruct-Q4_K_M.gguf",
+  "qwen2.5-math:7b":                "bartowski/Qwen2.5-Math-7B-Instruct-GGUF:Qwen2.5-Math-7B-Instruct-Q4_K_M.gguf",
+  "qwen2.5-math:72b":               "bartowski/Qwen2.5-Math-72B-Instruct-GGUF:Qwen2.5-Math-72B-Instruct-Q4_K_M.gguf",
+
+  "qwq:32b":                        "bartowski/Qwen_QwQ-32B-GGUF:QwQ-32B-Q4_K_M.gguf",
+
+  "_____ QWEN 3 _____": "============================================================",
+
+  "qwen3:1.7b":                     "bartowski/Qwen_Qwen3-1.7B-GGUF:Qwen3-1.7B-Q4_K_M.gguf",
+  "qwen3:4b":                       "bartowski/Qwen_Qwen3-4B-GGUF:Qwen3-4B-Q4_K_M.gguf",
+  "qwen3:8b":                       "bartowski/Qwen_Qwen3-8B-GGUF:Qwen3-8B-Q4_K_M.gguf",
+  "qwen3:14b":                      "bartowski/Qwen_Qwen3-14B-GGUF:Qwen3-14B-Q4_K_M.gguf",
+  "qwen3:32b":                      "bartowski/Qwen_Qwen3-32B-GGUF:Qwen3-32B-Q4_K_M.gguf",
+  "qwen3-moe:30b-a3b":              "bartowski/Qwen_Qwen3-30B-A3B-GGUF:Qwen3-30B-A3B-Q4_K_M.gguf",
+  "qwen3-moe:235b-a22b":            "bartowski/Qwen_Qwen3-235B-A22B-GGUF:Qwen3-235B-A22B-Q4_K_M.gguf",
+
+  "_____ GOOGLE GEMMA _____": "============================================================",
+
+  "gemma2:2b":                      "bartowski/gemma-2-2b-it-GGUF:gemma-2-2b-it-Q4_K_M.gguf",
+  "gemma2:9b":                      "bartowski/gemma-2-9b-it-GGUF:gemma-2-9b-it-Q4_K_M.gguf",
+  "gemma2:27b":                     "bartowski/gemma-2-27b-it-GGUF:gemma-2-27b-it-Q4_K_M.gguf",
+  "gemma3:1b":                      "bartowski/google_gemma-3-1b-it-GGUF:gemma-3-1b-it-Q4_K_M.gguf",
+  "gemma3:4b":                      "bartowski/google_gemma-3-4b-it-GGUF:gemma-3-4b-it-Q4_K_M.gguf",
+  "gemma3:12b":                     "bartowski/google_gemma-3-12b-it-GGUF:gemma-3-12b-it-Q4_K_M.gguf",
+  "gemma3:27b":                     "bartowski/google_gemma-3-27b-it-GGUF:gemma-3-27b-it-Q4_K_M.gguf",
+  "gemma4:31b":                     "bartowski/google_gemma-4-31B-it-GGUF:google_gemma-4-31B-it-Q4_K_M.gguf",
+
+  "_____ MICROSOFT PHI _____": "============================================================",
+
+  "phi3.5:mini-3.8b":               "bartowski/Phi-3.5-mini-instruct-GGUF:Phi-3.5-mini-instruct-Q4_K_M.gguf",
+  "phi4:14b":                       "bartowski/phi-4-GGUF:phi-4-Q4_K_M.gguf",
+  "phi4-mini:3.8b":                 "bartowski/microsoft_Phi-4-mini-instruct-GGUF:Phi-4-mini-instruct-Q4_K_M.gguf",
+  "phi4-reasoning:14b":             "bartowski/microsoft_Phi-4-reasoning-GGUF:Phi-4-reasoning-Q4_K_M.gguf",
+  "phi4-mini-reasoning:3.8b":       "bartowski/microsoft_Phi-4-mini-reasoning-GGUF:Phi-4-mini-reasoning-Q4_K_M.gguf",
+
+  "_____ MISTRAL / MIXTRAL _____": "============================================================",
+
+  "mistral:7b":                     "bartowski/Mistral-7B-Instruct-v0.3-GGUF:Mistral-7B-Instruct-v0.3-Q4_K_M.gguf",
+  "mistral-small:22b":              "bartowski/Mistral-Small-Instruct-2409-GGUF:Mistral-Small-Instruct-2409-Q4_K_M.gguf",
+  "mistral-small:24b":              "bartowski/Mistral-Small-24B-Instruct-2501-GGUF:Mistral-Small-24B-Instruct-2501-Q4_K_M.gguf",
+  "mistral-small:24b-2503":         "bartowski/mistralai_Mistral-Small-3.1-24B-Instruct-2503-GGUF:Mistral-Small-3.1-24B-Instruct-2503-Q4_K_M.gguf",
+  "mistral-small:24b-2506":         "bartowski/mistralai_Mistral-Small-3.2-24B-Instruct-2506-GGUF:Mistral-Small-3.2-24B-Instruct-2506-Q4_K_M.gguf",
+  "mixtral:8x7b-47b":               "bartowski/Mixtral-8x7B-Instruct-v0.1-GGUF:Mixtral-8x7B-Instruct-v0.1-Q4_K_M.gguf",
+  "mixtral:8x22b-141b":             "bartowski/Mixtral-8x22B-Instruct-v0.1-GGUF:Mixtral-8x22B-Instruct-v0.1-Q4_K_M.gguf",
+  "codestral:22b":                  "bartowski/Codestral-22B-v0.1-GGUF:Codestral-22B-v0.1-Q4_K_M.gguf",
+  "devstral:24b":                   "bartowski/mistralai_Devstral-Small-2-24B-Instruct-2512-GGUF:Devstral-Small-2-24B-Instruct-2512-Q4_K_M.gguf",
+  "mistral-nemo:12b":               "bartowski/Mistral-Nemo-Instruct-2407-GGUF:Mistral-Nemo-Instruct-2407-Q4_K_M.gguf",
+
+  "_____ DEEPSEEK R1 DISTILLS _____": "============================================================",
+
+  "deepseek-r1-distill-qwen:1.5b":  "bartowski/DeepSeek-R1-Distill-Qwen-1.5B-GGUF:DeepSeek-R1-Distill-Qwen-1.5B-Q4_K_M.gguf",
+  "deepseek-r1-distill-qwen:7b":    "bartowski/DeepSeek-R1-Distill-Qwen-7B-GGUF:DeepSeek-R1-Distill-Qwen-7B-Q4_K_M.gguf",
+  "deepseek-r1-distill-qwen:14b":   "bartowski/DeepSeek-R1-Distill-Qwen-14B-GGUF:DeepSeek-R1-Distill-Qwen-14B-Q4_K_M.gguf",
+  "deepseek-r1-distill-qwen:32b":   "bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF:DeepSeek-R1-Distill-Qwen-32B-Q4_K_M.gguf",
+  "deepseek-r1-distill-llama:8b":   "bartowski/DeepSeek-R1-Distill-Llama-8B-GGUF:DeepSeek-R1-Distill-Llama-8B-Q4_K_M.gguf",
+  "deepseek-r1-distill-llama:70b":  "bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF:DeepSeek-R1-Distill-Llama-70B-Q4_K_M.gguf",
+
+  "_____ DEEPSEEK V3 / R1 FULL _____": "============================================================",
+
+  "deepseek-v3:32b":                "bartowski/DeepSeek-V3-0324-GGUF:DeepSeek-V3-0324-Q4_K_M.gguf",
+  "deepseek-r1:671b":               "bartowski/DeepSeek-R1-GGUF:DeepSeek-R1-Q4_K_M.gguf",
+  "deepseek-r1-0528:671b":          "bartowski/deepseek-ai_DeepSeek-R1-0528-GGUF:DeepSeek-R1-0528-Q4_K_M.gguf",
+
+  "_____ NVIDIA NEMOTRON _____": "============================================================",
+
+  "nemotron-mini:4b":               "bartowski/Llama-3.1-Nemotron-Mini-4B-Instruct-GGUF:Llama-3.1-Nemotron-Mini-4B-Instruct-Q4_K_M.gguf",
+  "nemotron:70b":                   "bartowski/Llama-3.1-Nemotron-70B-Instruct-HF-GGUF:Llama-3.1-Nemotron-70B-Instruct-HF-Q4_K_M.gguf",
+
+  "_____ COHERE COMMAND _____": "============================================================",
+
+  "command-r:35b":                  "bartowski/c4ai-command-r-v01-GGUF:c4ai-command-r-v01-Q4_K_M.gguf",
+  "command-r-plus:104b":            "bartowski/c4ai-command-r-plus-GGUF:c4ai-command-r-plus-Q4_K_M.gguf",
+  "command-r-08-2024:35b":          "bartowski/c4ai-command-r-08-2024-GGUF:c4ai-command-r-08-2024-Q4_K_M.gguf",
+  "command-a:111b":                 "bartowski/CohereForAI_c4ai-command-a-03-2025-GGUF:CohereForAI_c4ai-command-a-03-2025-Q4_K_M.gguf",
+
+  "_____ AI21 JAMBA _____": "============================================================",
+
+  "jamba-reasoning:3b":             "bartowski/ai21labs_AI21-Jamba-Reasoning-3B-GGUF:AI21-Jamba-Reasoning-3B-Q4_K_M.gguf",
+
+  "_____ IBM GRANITE _____": "============================================================",
+
+  "granite3.2:2b":                  "bartowski/ibm-granite_granite-3.2-2b-instruct-GGUF:granite-3.2-2b-instruct-Q4_K_M.gguf",
+  "granite3.2:8b":                  "bartowski/ibm-granite_granite-3.2-8b-instruct-GGUF:granite-3.2-8b-instruct-Q4_K_M.gguf",
+  "granite3.3:2b":                  "bartowski/ibm-granite_granite-3.3-2b-instruct-GGUF:granite-3.3-2b-instruct-Q4_K_M.gguf",
+  "granite3.3:8b":                  "bartowski/ibm-granite_granite-3.3-8b-instruct-GGUF:granite-3.3-8b-instruct-Q4_K_M.gguf",
+
+  "_____ ALLENAI OLMO _____": "============================================================",
+
+  "olmo2:7b":                       "bartowski/allenai_OLMo-2-1124-7B-Instruct-GGUF:OLMo-2-1124-7B-Instruct-Q4_K_M.gguf",
+  "olmo2:13b":                      "bartowski/allenai_OLMo-2-1124-13B-Instruct-GGUF:OLMo-2-1124-13B-Instruct-Q4_K_M.gguf",
+  "olmo3.1:32b":                    "bartowski/allenai_Olmo-3.1-32B-Think-GGUF:Olmo-3.1-32B-Think-Q4_K_M.gguf",
+
+  "_____ STARCODER _____": "============================================================",
+
+  "starcoder2:3b":                  "bartowski/starcoder2-3b-GGUF:starcoder2-3b-Q4_K_M.gguf",
+  "starcoder2:7b":                  "bartowski/starcoder2-7b-GGUF:starcoder2-7b-Q4_K_M.gguf",
+  "starcoder2:15b":                 "bartowski/starcoder2-15b-GGUF:starcoder2-15b-Q4_K_M.gguf",
+
+  "_____ YI (01.AI) _____": "============================================================",
+
+  "yi:9b":                          "bartowski/Yi-1.5-9B-Chat-GGUF:Yi-1.5-9B-Chat-Q4_K_M.gguf",
+  "yi:34b":                         "bartowski/Yi-34B-Chat-GGUF:Yi-34B-Chat-Q4_K_M.gguf",
+
+  "_____ ZHIPU GLM _____": "============================================================",
+
+  "glm4:9b":                        "bartowski/THUDM_GLM-4-9B-0414-GGUF:GLM-4-9B-0414-Q4_K_M.gguf",
+  "glm4:32b":                       "bartowski/THUDM_GLM-4-32B-0414-GGUF:GLM-4-32B-0414-Q4_K_M.gguf",
+
+  "_____ OPENAI OPEN WEIGHTS _____": "============================================================",
+
+  "gpt-oss:20b":                    "bartowski/openai_gpt-oss-20b-GGUF:openai_gpt-oss-20b-Q4_K_M.gguf",
+  "gpt-oss:120b":                   "bartowski/openai_gpt-oss-120b-GGUF:openai_gpt-oss-120b-Q4_K_M.gguf",
+
+  "_____ ARCEE / COMMUNITY _____": "============================================================",
+
+  "sky-t1:32b":                     "bartowski/Sky-T1-32B-Preview-GGUF:Sky-T1-32B-Preview-Q4_K_M.gguf",
+
+  "_____ EMBEDDING MODELS (sentence-transformers / GGUF) _____": "============================================================",
+
+  "__NOTE_EMBEDDINGS": "Embedding models below use original HuggingFace repos (safetensors). Use with sentence-transformers or llama.cpp --embedding flag.",
+
+  "nomic-embed-text:v1.5-137m":     "nomic-ai/nomic-embed-text-v1.5-GGUF:nomic-embed-text-v1.5.f16.gguf",
+  "nomic-embed-text:v2-moe-475m":   "nomic-ai/nomic-embed-text-v2-moe-GGUF:nomic-embed-text-v2-moe-Q4_K_M.gguf",
+  "nomic-embed-code:137m":          "nomic-ai/nomic-embed-code",
+
+  "bge-small-en:v1.5-33m":         "BAAI/bge-small-en-v1.5",
+  "bge-base-en:v1.5-109m":         "BAAI/bge-base-en-v1.5",
+  "bge-large-en:v1.5-335m":        "BAAI/bge-large-en-v1.5",
+  "bge-m3:567m":                   "BAAI/bge-m3",
+  "bge-en-icl:7b":                 "BAAI/bge-en-icl",
+
+  "all-minilm-l6:22m":             "sentence-transformers/all-MiniLM-L6-v2",
+  "all-minilm-l12:33m":            "sentence-transformers/all-MiniLM-L12-v2",
+  "all-mpnet-base:v2-109m":        "sentence-transformers/all-mpnet-base-v2",
+  "paraphrase-minilm-l6:22m":      "sentence-transformers/paraphrase-MiniLM-L6-v2",
+  "multi-qa-minilm-l6:22m":        "sentence-transformers/multi-qa-MiniLM-L6-cos-v1",
+
+  "e5-small:v2-33m":               "intfloat/e5-small-v2",
+  "e5-base:v2-109m":               "intfloat/e5-base-v2",
+  "e5-large:v2-335m":              "intfloat/e5-large-v2",
+  "e5-mistral:7b-instruct":        "intfloat/e5-mistral-7b-instruct",
+  "multilingual-e5-large:560m":    "intfloat/multilingual-e5-large",
+  "multilingual-e5-large-instruct:560m": "intfloat/multilingual-e5-large-instruct",
+
+  "mxbai-embed-large:v1-335m":     "mixedbread-ai/mxbai-embed-large-v1",
+
+  "gte-qwen2:1.5b-instruct":       "Alibaba-NLP/gte-Qwen2-1.5B-instruct",
+  "gte-qwen2:7b-instruct":         "Alibaba-NLP/gte-Qwen2-7B-instruct",
+  "gte-multilingual-base:305m":    "Alibaba-NLP/gte-multilingual-base",
+  "gte-large-en:v1.5-434m":        "Alibaba-NLP/gte-large-en-v1.5",
+
+  "qwen3-embedding:0.6b":          "Qwen/Qwen3-Embedding-0.6B",
+  "qwen3-embedding:4b":            "Qwen/Qwen3-Embedding-4B",
+  "qwen3-embedding:8b":            "Qwen/Qwen3-Embedding-8B",
+
+  "stella-en:v5-1.5b":             "dunzhang/stella_en_1.5B_v5",
+  "stella-en:v5-400m":             "dunzhang/stella_en_400M_v5",
+
+  "jina-embeddings:v3-570m":       "jinaai/jina-embeddings-v3",
+
+  "arctic-embed:335m":             "Snowflake/snowflake-arctic-embed-m",
+  "arctic-embed:l-335m":           "Snowflake/snowflake-arctic-embed-l",
+  "arctic-embed:2-568m":           "Snowflake/snowflake-arctic-embed-m-v2.0",
+
+  "granite-embedding:30m":         "ibm-granite/granite-embedding-30m-english",
+  "granite-embedding:125m":        "ibm-granite/granite-embedding-125m-english",
+  "granite-embedding:278m":        "ibm-granite/granite-embedding-278m-multilingual"
+}
